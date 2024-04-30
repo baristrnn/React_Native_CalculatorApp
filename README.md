@@ -50,8 +50,8 @@ This is one way to run your app — you can also run it directly from within And
 
 You've successfully run Calculator App!
 
-<img src="https://github.com/baristrnn/React_Native_CalculatorApp/assets/140613247/82090b24-5374-4142-87e2-bcb134487023" width="100" height="200">
+<img src="https://github.com/baristrnn/React_Native_CalculatorApp/assets/140613247/82090b24-5374-4142-87e2-bcb134487023" width="250" height="500">
 
-<img src="https://github.com/baristrnn/React_Native_CalculatorApp/assets/140613247/b8123a89-c2b4-4e7d-a20c-2f737d31bc45" width="100" height="200">
+<img src="https://github.com/baristrnn/React_Native_CalculatorApp/assets/140613247/b8123a89-c2b4-4e7d-a20c-2f737d31bc45" width="250" height="500">
 
 
